@@ -8,6 +8,7 @@ Custom Walker for the wordpress menu structure.
 
 ```bash
 git clone https://github.com/Rayiumir/navbar-walker-wordpress.git
+cd navbar-walker-wordpress/
 ```
 2. Calling the file in `functions.php`.
 
